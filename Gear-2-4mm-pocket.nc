@@ -1,6 +1,6 @@
 (Exported by FreeCAD)
 (Post Processor: grbl_post)
-(Output Time:2025-07-25 18:09:15.210926)
+(Output Time:2025-08-26 05:48:41.064519)
 (Begin preamble)
 G17 G90
 G21
@@ -16,7 +16,7 @@ G54
 (Finish operation: 4mm-10-Endmill001)
 (Begin operation: 4mm-pocket)
 (Path: 4mm-pocket)
-(4mm-pocket)
+(Pocket_Shape044)
 G0 Z5.000
 G0
 G0 X-0.011 Y0.200
